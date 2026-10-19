@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="Robotics_project_tracker/Robotics_project_tracker.vcxproj" Id="e14d903e-cd49-47f0-8a67-f9b0ae56f696" />
-</Solution>
