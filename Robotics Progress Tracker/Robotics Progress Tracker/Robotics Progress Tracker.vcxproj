@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{884a8974-c5fb-4d5b-8194-7624505e7c88}</ProjectGuid>
+    <ProjectGuid>{B2AEEB64-2C96-24D5-CBB2-0B1453B9C1A1}</ProjectGuid>
     <RootNamespace>RoboticsProgressTracker</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
