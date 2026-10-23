@@ -1,0 +1,7 @@
+Robotics Build Tracker
+Robot name: Techno phoenix
+Total Parts: 20
+Finished Parts: 8
+Parts Left: 12
+Hours Worked: 2
+Completion Percentage: 40.0%
