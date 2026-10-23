@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Robotics Progress Tracker/Robotics Progress Tracker.vcxproj" Id="884a8974-c5fb-4d5b-8194-7624505e7c88" />
+  <Project Path="Robotics Progress Tracker/Robotics Progress Tracker.vcxproj" />
 </Solution>
